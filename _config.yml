@@ -1,7 +1,7 @@
 title: Sun
 author: GitHub User
 email: rigt@example.com
-description: > 
+description: > # this means to ignore newlines until "baseurl:"
   This is about the Sun.
 
 # social links

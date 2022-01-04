@@ -1,8 +1,8 @@
 title: Sun
 author: GitHub User
 email: rigt@example.com
-description: >  
-This is about the Sun.
+description: > 
+  This is about the Sun.
 
 # social links
 github_username:  rigt # DO NOT include the @ character, or else the build will fail!
